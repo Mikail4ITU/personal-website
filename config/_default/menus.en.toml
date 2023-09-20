@@ -22,9 +22,4 @@
   weight = 400
   identifier = "cv"
   url = "cv/Mikail_Kurt_CV.pdf"
-  
-  [[main]]
-  name = "Location"
-  weight = 400
-  identifier = "location"
-  url = "location/location.Rmd"
+

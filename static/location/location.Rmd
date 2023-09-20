@@ -1,15 +1,15 @@
 ---
 title: "Location"
 output: html_document
-date: "2023-09-20"
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, results=TRUE, warning=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::include_url("location.html")
 ```
 
 
-```{r}
+```{r, warning=FALSE}
 library(leaflet)
 
 m <- leaflet() %>%

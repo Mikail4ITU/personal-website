@@ -1,11 +1,11 @@
 
-title = "I'm Mikail Kurt"
+title = "Hi!, Welcome to personal website of Mikail Kurt"
 author = "Mikail Kurt"
 #copyright = "2020-2021"
-description = "Call me Mike"
+description = "Senior Data Analytics Specialist"
 profilePicture = "images/Mikail_Kurt.jpeg"
 keywords = ""
-favicon = "favicons/"
+favicon = "favicons/Mikail_Kurt.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
@@ -72,4 +72,4 @@ title = "e-mail"
 url = "mailto:m.kurt2734@gmail.com"
 
 [mermaid]
-# enable = true
+icon = "fas fa-smile-o"

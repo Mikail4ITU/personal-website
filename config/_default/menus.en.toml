@@ -9,7 +9,6 @@
   weight = 400
   identifier = "about"
   url = "/about/"
-  url = "/about/location.Rmd"
   
   [[main]]
   name = "Posts"
@@ -24,4 +23,8 @@
   identifier = "cv"
   url = "cv/Mikail_Kurt_CV.pdf"
   
-
+  [[main]]
+  name = "Location"
+  weight = 400
+  identifier = "location"
+  url = "location/locaion.Rmd"

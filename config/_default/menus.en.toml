@@ -9,6 +9,7 @@
   weight = 400
   identifier = "about"
   url = "/about/"
+  url = "/about/location.Rmd"
   
   [[main]]
   name = "Posts"

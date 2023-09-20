@@ -27,4 +27,4 @@
   name = "Location"
   weight = 400
   identifier = "location"
-  url = "location/locaion.Rmd"
+  url = "location/location.Rmd"
